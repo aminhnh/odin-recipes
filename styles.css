@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(41, 41, 68);
+    color: aliceblue;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#nasgor {
+    width: 400px;
+    height: auto;
+    transform: rotate(90deg);
+}
+
+.caption,
+.caption a {
+    font-size: 14px;
+    text-align: center;
+}
+
+.home, .home a {
+    color: rgb(205, 232, 255);
+    text-align: right;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+h3 {
+    font-size: 32px;
+}
